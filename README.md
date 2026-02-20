@@ -1,6 +1,6 @@
-# Gamatrain
+# GamaEdtech
 
-Gamatrain is building the infrastructure layer for discovering, indexing, and understanding educational institutions at scale.
+GamaEdtech is building the infrastructure layer for discovering, indexing, and understanding educational institutions at scale.
 
 Our mission is to make educational data searchable, structured, and intelligent.
 
@@ -8,7 +8,7 @@ Our mission is to make educational data searchable, structured, and intelligent.
 
 ## Overview
 
-Gamatrain develops a scalable platform that:
+GamaEdtech develops a scalable platform that:
 
 - Indexes and structures large-scale school datasets  
 - Enables intelligent and semantic search  
@@ -23,7 +23,7 @@ We focus on performance, clean architecture, and scalability from day one.
 
 Educational data is fragmented, inconsistent, and difficult to explore.
 
-Gamatrain aims to become:
+GamaEdtech aims to become:
 
 - The search layer for educational institutions  
 - A structured and reliable dataset of schools  
@@ -102,4 +102,4 @@ Designed for reliability, performance, and future expansion.
 
 For collaboration, partnerships, or integration inquiries:
 
-info@gamatrain.com
+info@GamaEdtech.com
