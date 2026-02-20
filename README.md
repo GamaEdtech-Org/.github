@@ -102,4 +102,4 @@ Designed for reliability, performance, and future expansion.
 
 For collaboration, partnerships, or integration inquiries:
 
-info@GamaEdtech.com
+info@gamatrain.com
